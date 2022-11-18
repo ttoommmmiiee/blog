@@ -1,0 +1,4 @@
+baseURL = 'https://ttoommmmiiee.github.io/'
+languageCode = 'en-us'
+title = 'Tommie Blog 2022-2023'
+theme = 'hugo-theme-nostyleplease'
