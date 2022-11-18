@@ -1,0 +1,4 @@
+[submodule "tommieblog/public"]
+	path = tommieblog/public
+	url = https://github.com/ttoommmmiiee/ttoommmmiiee.github.io.git
+	branch = main
