@@ -4,7 +4,7 @@ title: "Image Test Post"
 
 date: 2023-07-28T05:21:51+01:00Z
 
-featured_image: /images/dianediprima.jpeg
+thumbnail: /images/dianediprima.jpeg
 
 ---
 

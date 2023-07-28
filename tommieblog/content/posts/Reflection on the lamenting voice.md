@@ -4,6 +4,8 @@ title: "Reflection on the lamenting voice"
 
 date: 2023-03-29T18:35:46Z
 
+thumbnail: /images/dianediprima.jpeg
+
 ---
 
 Recently I watched a talk by Eleni Ikoniadou in which she presented her recent work *Future Chrous*. https://schedule.mozillafestival.org/session/QTHPSU-1

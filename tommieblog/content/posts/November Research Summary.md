@@ -4,6 +4,8 @@ title: "November Research Summary"
 
 date: 2022-11-22T12:11:15Z
 
+thumbnail: /images/dianediprima.jpeg
+
 ---
 
 In 1997, artist and music producer Terre Thaemlitz released her album *Die Roboter* under the moniker Rubato. The album comprises piano interpretations of classic Kraftwerk titles. On first listen, the piano rendition sounds like a live performance by a talented and expressive pianist, playing a real piano with rich acoustic tones. The only sonic hint of manipulation is the noise that washes over the piano playing. 
